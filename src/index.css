@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+span.label.label-primary.inline-label {
+  position: absolute;
+  top: -25px;
+  padding: .2em .8em .3em;
+  z-index: 3;
+}
